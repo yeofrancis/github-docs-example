@@ -129,6 +129,10 @@ You can use the following markdown format to create tables:
 | Heart Eyes | `:heart_eyes:` | :heart_eyes: |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
+- take note of where the pipe keyboard is located.
+- it should be above return Enter key.
+  
+[Cloud relation with Terraform](cloud/terraform.md)
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
