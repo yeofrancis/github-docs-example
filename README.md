@@ -52,6 +52,11 @@ Error: Missing required argument
 ```
 > Here is an example of using codeblocks for an error that appear in Python and Terraform.
 
+Provide codeblock for an error instead of a screenshot.
+A screenshot is taken from your computer, a photo is taken from your phone.
+
+> cases where you need to take photo with phone is when you need to show something like keyboard, which does not appear on computer screen.
+
 ## Step 2 - How to take screenshots
 A screenshot is when you capture a part of yourt screen from laptop, desktop or phone.
 This is not to be confused with take a photo with your phone.
@@ -59,6 +64,8 @@ This is not to be confused with take a photo with your phone.
 **DON'T DO THIS**
 
 This is what a screenshot from  your computer should look like
+
+![photo with phone](assets/phonephoto.jpg)
 
 Here are the hotkeys and methods for taking screenshots on both macOS and Windows operating systems:
 
